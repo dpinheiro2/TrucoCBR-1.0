@@ -1,0 +1,5 @@
+<DataBaseConfiguration>
+	<HibernateConfigFile>br/ufsm/trucocbr/cbr/hibernate.cfg.xml</HibernateConfigFile>
+	<DescriptionMappingFile>br/ufsm/trucocbr/cbr/TrucoDescription.hbm.xml</DescriptionMappingFile>
+	<DescriptionClassName>br.ufsm.trucocbr.cbr.TrucoDescription</DescriptionClassName>
+</DataBaseConfiguration>
